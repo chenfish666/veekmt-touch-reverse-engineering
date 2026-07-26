@@ -1,0 +1,27 @@
+# Quartus build outputs
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+*.pof
+*.sof
+*.qws
+*.done
+*.qdf
+*.bak
+*.orig
+*.rej
+c5_pin_model_dump.txt
+
+# SignalTap
+*.stp.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
