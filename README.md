@@ -4,8 +4,7 @@
 
 > Every normal path was locked: the reference driver file was corrupted, the vendor IP was encrypted, the license had expired, and the working bitstream could not be decompiled. So I reverse-engineered the touch controller's I2C protocol from scratch — using only free tools (Quartus + its built-in SignalTap logic analyzer), falsifiable hypotheses, and 24 incremental hardware-tested versions — until a hand-written Verilog I2C master could read real coordinates from the panel.
 
-<!-- 【示範影片放這裡】強烈建議：錄一段手指在螢幕上滑、畫面跟著動的 GIF，取代這行 -->
-<!-- ![demo](docs/demo.gif) -->
+![demo](demo.gif)
 
 ---
 
